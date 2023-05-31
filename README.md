@@ -1,3 +1,3 @@
 # Calculator-project
 
-simply a calculator
+simply a calculator, written in Kotlin. 
